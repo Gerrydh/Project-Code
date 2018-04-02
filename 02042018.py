@@ -1,3 +1,5 @@
+https://stackoverflow.com/questions/46281738
+
 with open("Iris data.csv") as file:
     lines = file.read().split("\n")     #Read lines
 
