@@ -1,0 +1,6 @@
+https://plot.ly/scikit-learn/your-tutorial-chart/
+http://www.dummies.com/programming/big-data/data-science/data-science-using-python-to-count-for-categorical-data/
+https://medium.com/@msalmon00/helpful-python-code-snippets-for-data-exploration-in-pandas-b7c5aed5ecb9
+https://www.dataquest.io/blog/pandas-pivot-table/
+(GOOD) https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673 
+https://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/
