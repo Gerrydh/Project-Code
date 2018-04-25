@@ -4,3 +4,7 @@ https://medium.com/@msalmon00/helpful-python-code-snippets-for-data-exploration-
 https://www.dataquest.io/blog/pandas-pivot-table/
 (GOOD) https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673 
 https://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/
+
+
+http://www.scipy-lectures.org/packages/scikit-learn/auto_examples/plot_iris_scatter.html
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
