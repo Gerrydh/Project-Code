@@ -10,3 +10,5 @@ http://www.scipy-lectures.org/packages/scikit-learn/auto_examples/plot_iris_scat
 https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 
 https://www.kaggle.com/lalitharajesh/iris-dataset-exploratory-data-analysis
+
+https://www.kaggle.com/adityabhat24/iris-data-analysis-and-machine-learning-python
