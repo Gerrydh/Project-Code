@@ -8,3 +8,5 @@ https://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-ma
 
 http://www.scipy-lectures.org/packages/scikit-learn/auto_examples/plot_iris_scatter.html
 https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+
+https://www.kaggle.com/lalitharajesh/iris-dataset-exploratory-data-analysis
